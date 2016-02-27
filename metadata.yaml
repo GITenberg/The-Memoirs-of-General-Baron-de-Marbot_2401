@@ -1,0 +1,38 @@
+_repo: The-Memoirs-of-General-Baron-de-Marbot_2401
+alternative_title: Mémoires du général Baron de Marbot. English
+contributor:
+  translator:
+    agent_name: Colt, Oliver C.
+    gutenberg_agent_id: '879'
+    url: http://www.gutenberg.org/2009/agents/879
+creator:
+  author:
+    agent_name: Marbot, Jean-Baptiste-Antoine-Marcelin, baron de
+    aliases:
+    - De Marbot, Jean-Baptiste-Antoine-Marcelin, baron
+    - Marbot, baron de
+    birthdate: 1782
+    deathdate: 1854
+    gutenberg_agent_id: '900'
+    url: http://www.gutenberg.org/2009/agents/900
+    wikipedia: http://en.wikipedia.org/wiki/Jean-Baptiste-Antoine-Marcelin%2C_Baron_de_Marbot
+description: ''
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2401'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Campaigns'
+- !lcsh 'Marbot, Jean-Baptiste-Antoine-Marcelin, baron de, 1782-1854'
+- !lcsh 'Europe -- History -- 1789-1815'
+- !lcc 'DC'
+- !lcsh 'Generals -- France -- Biography'
+- !lcsh 'France. Armée'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Personal narratives, French'
+- !lcsh 'France -- History, Military -- 1789-1815'
+title: The Memoirs of General Baron de Marbot
+url: http://www.gutenberg.org/ebooks/2401
