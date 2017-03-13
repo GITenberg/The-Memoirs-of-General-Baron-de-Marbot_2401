@@ -1,11 +1,14 @@
 _repo: The-Memoirs-of-General-Baron-de-Marbot_2401
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Mémoires du général Baron de Marbot. English
 contributor:
   translator:
     agent_name: Colt, Oliver C.
     gutenberg_agent_id: '879'
     url: http://www.gutenberg.org/2009/agents/879
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Marbot, Jean-Baptiste-Antoine-Marcelin, baron de
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/900
     wikipedia: http://en.wikipedia.org/wiki/Jean-Baptiste-Antoine-Marcelin%2C_Baron_de_Marbot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2401#The-Memoirs-of-General-Baron-de-Marbot
 gutenberg_issued: '2000-11-01'
 gutenberg_type: Text
 identifiers:
