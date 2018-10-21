@@ -1,5 +1,5 @@
 _repo: The-Memoirs-of-General-Baron-de-Marbot_2401
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: Mémoires du général Baron de Marbot. English
 contributor:
   translator:
@@ -40,5 +40,6 @@ subjects:
 - !lcsh 'France. Armée'
 - !lcsh 'Napoleonic Wars, 1800-1815 -- Personal narratives, French'
 - !lcsh 'France -- History, Military -- 1789-1815'
+- GITenberg
 title: The Memoirs of General Baron de Marbot
 url: http://www.gutenberg.org/ebooks/2401
